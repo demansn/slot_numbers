@@ -1,0 +1,4 @@
+/node_modules
+/.idea
+/www/bundle.js
+/www/bundle.js.map
